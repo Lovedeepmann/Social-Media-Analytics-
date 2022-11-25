@@ -7,9 +7,14 @@ Methodlogies : - 1. Data Collection and Preparation, 2. Machine Leaning Model, 3
 
 Conclusion
 • We used the tweepy and fetch the data from the twitter explored the data in different ways.
+
 • We prepared the text data of tweets by removing the unnecessary things.
+
+
 • We trained the model based on machine learning model and on TensorFlow with all settings
+
 • We evaluated the model with different evaluation measures
+
 • We compare the mobile network using the Bar graph and pie chart
 
 
